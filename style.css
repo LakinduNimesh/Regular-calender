@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  background-image:linear-gradient(rgba(0, 0, 0, 0.568),rgba(21, 151, 133, 0.429)), url(https://images.pexels.com/photos/1366957/pexels-photo-1366957.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+.calander {
+  position: relative;
+  width: 200px;
+  background: #ffffff;
+  border: 1px solid #ffffff;
+  text-align: center;
+  border-radius: 10px;
+  overflow: hidden;
+  -webkit-box-reflect: below 1px linear-gradient(transparent, transparent, #0004);
+}
+
+.calander #month-name {
+  position: relative;
+  padding: 5px 10px;
+  background: #31fff8;
+  color: #2c2828;
+  font-size: 30px;
+  font-weight: 700;
+}
+
+.calander #day-name {
+  margin-top: 20px;
+  font-size: 20px;
+  font-weight: 300;
+  color: #757575;
+}
+
+.calander #day-number {
+  line-height: 1em;
+  font-size: 80px;
+  font-weight: 700;
+  color: #333;
+}
+
+.calander #year {
+  margin-bottom: 30px;
+  font-size: 20px;
+  font-weight: 500;
+  color: #444;
+}
