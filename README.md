@@ -6,7 +6,6 @@ This is a simple web page that displays the current date in a calendar format. I
 
 ![image](https://github.com/LakinduNimesh/Regular-calender/assets/149768006/c09eb089-a114-4633-abf9-8a503eee58b2)
 
-
 ## Features
 
 - **Dynamic Date Display**: The date is dynamically fetched using JavaScript to display the current month, day, and year.
