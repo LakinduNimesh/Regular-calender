@@ -2,12 +2,10 @@
 
 This is a simple web page that displays the current date in a calendar format. It shows the month, day of the week, day number, and year.
 
-![image](https://github.com/LakinduNimesh/Regular-calender/assets/149768006/c09eb089-a114-4633-abf9-8a503eee58b2)
-
-
 ## Preview
 
-![Regular Calendar Preview](preview.png)
+![image](https://github.com/LakinduNimesh/Regular-calender/assets/149768006/c09eb089-a114-4633-abf9-8a503eee58b2)
+
 
 ## Features
 
